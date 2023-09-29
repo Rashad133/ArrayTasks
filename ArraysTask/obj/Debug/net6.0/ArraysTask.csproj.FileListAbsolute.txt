@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.exe
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.deps.json
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.runtimeconfig.json
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.dll
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.pdb
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.dll
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\obj\Debug\net6.0\refint\ArraysTask.dll
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.pdb
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.genruntimeconfig.cache
+C:\Users\ACER\Desktop\Arrays_09_29\ArraysTask\ArraysTask\obj\Debug\net6.0\ref\ArraysTask.dll
